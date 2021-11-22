@@ -24,7 +24,7 @@ The risk_flag indicates whether there has been a default in the past or not
 ```
 
 ## Model performance
-- I have acheived model accuracy 78%, but the goal is predict the correctly classified who, approved for loan, means we have more focused on recall, (81%)
+- I have acheived model accuracy 82%, but the goal is predict the correctly classified who, approved for loan, means we have more focused on recall, (81%)
 
                  precision   recall  f1-score   support
 
@@ -38,6 +38,6 @@ weighted avg       0.90      0.83      0.85     75600
 - 82.96% Accurate
 
 ## Dataset:
-
+https://github.com/rahkum96/Loan-Prediction-by-XGBoost-Model/blob/main/Loan%20Prediction_Training%20Data.csv
 
 
