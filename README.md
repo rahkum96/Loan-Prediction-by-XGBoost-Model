@@ -1,6 +1,8 @@
 # Loan-Prediction-by-XGBoost-Model
 Predict the potential loan defaulters 
 
+![image](https://user-images.githubusercontent.com/86415241/142838585-71e7926b-039f-4de2-95f2-b192ed062c5e.png)
+
 ## Problem statement 
 Predict the potential loan defaulters using the Gradient Boosting Method. Following attributes are available:
 
