@@ -24,7 +24,7 @@ The risk_flag indicates whether there has been a default in the past or not
 - Scikit-Learn &
 - seaborn
 ```
-## Steps
+## Steps 
 ![image](https://user-images.githubusercontent.com/86415241/142838324-f2113bf8-51a6-41f2-98e0-cb91efd932b8.png)
 
 ## Model performance
