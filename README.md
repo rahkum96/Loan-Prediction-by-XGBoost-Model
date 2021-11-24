@@ -7,7 +7,7 @@ Predict the potential loan defaulters
 Predict the potential loan defaulters using the Gradient Boosting Method. Following attributes are available
 
 ### About the Data
-The risk_flag indicates whether there has been a default in the past or not
+The risk_flag indicates whether there has been a default in the past or not.
 
 ## Usage
 
