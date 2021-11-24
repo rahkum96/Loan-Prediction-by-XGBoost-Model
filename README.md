@@ -17,7 +17,7 @@ The risk_flag indicates whether there has been a default in the past or not.
 
 - install xgboost by using `pip install xgb` in command line prompt/ anconda  i've you haven't.
 
-## Modules needed:
+## Modules needed: 
 ```
 - xgboost
 - Pandas
